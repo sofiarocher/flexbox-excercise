@@ -1,0 +1,33 @@
+.container {
+    border: 3px gray solid;
+    padding: 24px 24px 0 24px;
+    display: flex;
+    justify-content: space-between;
+}
+  
+.box {
+    border: 4px solid lightblue;
+    margin-bottom: 24px;
+}
+
+.flexsearch {
+   width: 45%;
+}
+
+.search {
+    height: 50px;
+}
+
+ .boxarea {
+   width: 45%;
+} 
+.smallboxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small {
+    height: 50px;
+    width: 30%;
+
+}
